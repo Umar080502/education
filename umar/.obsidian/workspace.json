@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "команды linux/1ff.md",
+                "file": "команды linux/1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e0cee62e252133e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "команды linux/2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "команды linux/1ff.md",
+                "file": "команды linux/2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "команды linux/1ff.md",
+                "file": "команды linux/2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "команды linux/1ff.md"
+                "file": "команды linux/2.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3cf94eb480ccdac8",
+  "active": "ac887de6d068dfc4",
   "lastOpenFiles": [
+    "команды linux/1.md",
+    "команды linux/2.md",
     "Welcome.md",
-    "команды linux/1ff.md",
     "команды linux"
   ]
 }
