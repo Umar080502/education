@@ -4,35 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "4f4a8fd4b43449c5",
+        "id": "47e4e4e702c0a7c1",
         "type": "tabs",
         "children": [
           {
-            "id": "3cf94eb480ccdac8",
+            "id": "82fc73a6130fedd6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "команды linux/1.md",
+                "file": "Команды Linux.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8e0cee62e252133e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "команды linux/2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            },
+            "group": "1dd079dde27edffe"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "84f10a5eaebc312a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6707961ac0a931a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Команды Linux.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.22291666666667,
+                  "lineSizeMultiplier": 2.57552083333333,
+                  "collapse-forces": false,
+                  "centerStrength": 0.364583333333333,
+                  "repelStrength": 10.5208333333333,
+                  "linkStrength": 0.473958333333333,
+                  "linkDistance": 214,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            },
+            "group": "1dd079dde27edffe"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "p",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +108,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "команды linux/2.md",
+                "file": "Команды Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "команды linux/2.md",
+                "file": "Команды Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +169,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "команды linux/2.md"
+                "file": "Команды Linux.md"
               }
             }
+          },
+          {
+            "id": "362b0ae65fa826ea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,11 +195,19 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ac887de6d068dfc4",
+  "active": "a618678188e80de7",
   "lastOpenFiles": [
+    "Команды Linux.md",
+    "Без названия 1.md",
+    "Без названия.md",
+    "Без названия 2.md",
     "команды linux/1.md",
     "команды linux/2.md",
     "Welcome.md",
