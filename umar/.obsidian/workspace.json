@@ -17,50 +17,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "1dd079dde27edffe"
-          }
-        ]
-      },
-      {
-        "id": "84f10a5eaebc312a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f6707961ac0a931a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Команды Linux.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1.22291666666667,
-                  "lineSizeMultiplier": 2.57552083333333,
-                  "collapse-forces": false,
-                  "centerStrength": 0.364583333333333,
-                  "repelStrength": 10.5208333333333,
-                  "linkStrength": 0.473958333333333,
-                  "linkDistance": 214,
-                  "scale": 1,
-                  "close": true
-                }
-              }
-            },
-            "group": "1dd079dde27edffe"
+            }
           }
         ]
       }
@@ -91,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "p",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,11 +159,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a618678188e80de7",
+  "active": "82fc73a6130fedd6",
   "lastOpenFiles": [
+    "черновик.md",
+    "Excalidraw/Drawing 2024-05-18 00.13.58.excalidraw.md",
+    "Pasted Image 20240518001446_943.png",
+    "Excalidraw",
     "Команды Linux.md",
     "Без названия 1.md",
-    "Без названия.md",
     "Без названия 2.md",
     "команды linux/1.md",
     "команды linux/2.md",
