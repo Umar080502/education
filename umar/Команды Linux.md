@@ -59,3 +59,93 @@ unzip myZIP.zip- Распаковать файл myZIP.zip
 2>> - добавить в новый файл или старый
 &>- и плохое и хорошее в файл 
 /dev/null - устройство находящиеся в ж#$е
+
+
+top - как Task Manager в Windows
+free - показать состояние памяти в байтах 
+free-h - показать состояние памяти в МВ, GB
+ps- показать мои процессы
+ps aux - показать все процессы от всех пользователей
+ps aux | grep bash - найти все процессы bash
+
+
+
+vi или vim - самы старый и дурацкий редактор
+рісо - новый редактов
+nano - самый новый редактор
+gedit - как и Notepad в Windows, работает только если есть графический интерфейс
+
+
+
+
+sudo - запустить комманду используя Super User права 
+su - сменить текушего пользователя
+/etc/passwd - тут хранятся все аккаунты
+/etc/shadow - тут хранятся все пароли аккаунтов
+/etc/group - тут хранятся все группы
+whoami - показать имя текущего пользователя 
+id- показать к каким группам принадлежит пользователь 
+who - показать кто сейчас в системе
+w - показать кто сейчас в системе и что делает 
+last - показать последние логины
+
+
+
+useradd -m umar - создать юзера umar с домашней директорией
+userdel -r umar - стереть юзера umar с его домашней директорией
+/etc/skel - это шаблон домашней директории
+passwd umar - изменить пароль для юзера umar
+groupadd Programmers - создать группу Programmers
+groupdel Programmers - стереть группу Programmers
+usermod -aG Programmers umar - добавить юзера umar
+в группу Programmers
+deluser umar Programmers - удалить юзера umar
+из групы Programmers
+
+
+
+chown - изменить владельца файла / директории 
+chgrp - изменить группу файла / директории 
+chmod - изменить права доступа на файл / директорию
+chmod ugo+x myfile.txt довавить Х всем
+chmod g-rw myfile.txt убрать RW у группы
+chmod o=rw myfile.txt установить RW всем остальным
+u= user
+g = group
+o = other
+a = ugo
+
+
+
+ifconfig - показать мой IP адресс
+ip addr show - показать мой IP адресс
+route-показать адрес роутера Gateway
+ping-протестировать коннекшн к адресу  
+host-дать IP адрес вэб сайта
+dig-дать IP адрес вэб сайта
+netstat - выдать сетевые подключения компьютера
+
+
+
+wget- скачать файл из интернета
+Ubuntu/Debian/Kali/Mint Linux:
+apt-get install      - скачать и установить программу
+apt-get remove   - удалить программу
+dpkg -i                 - установить программу из файла .deb
+dpkg -r                - удалить программу
+RedHat/CenOS Linux: 
+yum install          - скачать и установить программу
+yum remove       - удалить программу
+rpm -i                 -установить программу из файла .rpm
+rpm -e                -удалить программу
+
+
+./myscript.sh Umar Ulugbekov Umrbek
+$0 при этом равен ./myscript.sh
+$1 при этом равен Umar
+$2 при этом равен Ulugbekov
+$3 при этом равен Umrbek
+
+myOS=`uname-u` запускает uname-u и сохраняет результат в переменную myOS
+Сохранить ввод пользователя в переменную name:
+read -p "please enter your name: " name
